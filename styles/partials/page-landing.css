@@ -74,3 +74,14 @@
 .buttons-container a.give-classes:hover {
     background: var(--color-secondary-dark);
 }
+
+.total-conections {
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.total-conections img {
+    margin-left: 0.8rem;
+}
